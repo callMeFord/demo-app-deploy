@@ -5,5 +5,5 @@ resources:
 - ../../base
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
-  newName: ghcr.io/callMeFord/demo-app
-  newTag: a4baec2362962b2ff5f1350cf478b6d4a776a42a
+  newName: ghcr.io/callmeford/demo-app
+  newTag: 524596977b24056622afa0776a58b3344322b91a
