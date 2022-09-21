@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/callmeford/demo-app
+  newTag: 524596977b24056622afa0776a58b3344322b91a
